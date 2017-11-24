@@ -114,6 +114,7 @@
    </footer> 
     
     <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/d3.min.js"></script>
     <script src="assets/js/app.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
 </body>
