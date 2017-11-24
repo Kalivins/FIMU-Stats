@@ -1,10 +1,45 @@
+/*/////////////////////////////////////////////////////////////////
+//////////////////////// FONTS/////////////////////////////////////
+///////////////////////////////////////////////////////////////////*/
+
+@font-face {
+font-family: 'ralewayM';
+src: url('../fonts/Raleway-Medium.ttf');
+}
+
+@font-face {
+font-family: 'ralewayXbold';
+src: url('../fonts/Raleway-ExtraBold.ttf');
+}
+
+/* ////////////////////////////////////////////////*/
+/* /////////////////// GENERAL / ///////////////////*/
+/* ////////////////////////////////////////////////*/
+
+h1 {
+	font-family: "ralewayXbold";
+	text-transform: uppercase;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: "ralewayXbold";
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
 /* ////////////////////////////////////////////////*/
 /* /////////////////// HEADER / ///////////////////*/
 /* ////////////////////////////////////////////////*/
 
 #header {
+	background-image: url("../img/header/visuel_fimu_2017_site_test.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-color: rgba(192, 170, 189, 0.8);
 	padding:0;
+	height: auto;
+	
 }
 
 #header img {
@@ -16,6 +51,10 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+
+#no-padding {
+	padding: 0;
 }
 
 /* ////////////////////////////////////////////////*/
@@ -71,14 +110,58 @@
     background-color: #fff !important;
 }
 
+.flex-div {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.flex-btn {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
 /* ////////////////////////////////////////////////*/
 /* /////////////////// BLOC 1 /////////////////////*/
 /* ////////////////////////////////////////////////*/
 
 #bloc1 .para {
 	margin-top: 40px;
+	margin-bottom: 50px;
 }
 
 #bloc1 p {
+	margin-bottom: 0px;
+}
+
+/* ////////////////////////////////////////////////*/
+/* /////////////////// BLOC 2 /////////////////////*/
+/* ////////////////////////////////////////////////*/
+#bloc2 {
+	background-color:rgba(192, 170, 189, 0.5);
+}
+
+#bloc2 .para {
+	margin-top: 40px;
+	margin-bottom: 50px;
+	
+}
+
+#bloc2 p {
+	margin-bottom: 0px;
+}
+
+/* ////////////////////////////////////////////////*/
+/* /////////////////// BLOC 3 /////////////////////*/
+/* ////////////////////////////////////////////////*/
+
+#bloc3 .para {
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+#bloc3 p {
 	margin-bottom: 0px;
 }
