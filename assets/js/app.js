@@ -1,3 +1,21 @@
+/*Permet de récuperer le volume de visiteurs en fonction de la date et du type de visiteur*/
+function get_volume(data, date, visiteur){
+    var volumeTotal = 0;
+    data.forEach(function (index) {
+                if (index.Date == date) {
+                    if (index.CategorieVisiteurs == visiteur) {
+
+                        var Volume = parseInt(index.Volume);
+                        
+                        if (!isNaN(Volume)) {
+                            volumeTotal += Volume;
+                        }
+                    }
+                }
+            });
+    return volumeTotal;
+}
+
 $(document).ready(function () {
 
 });
@@ -8,86 +26,177 @@ $(window).on('load', function () {
         dataType: "json",
         success: function (data) {
             var VolumeTotalFR = 0;
-            // Touriste Français Vendredi
-            data.forEach(function (index) {
-                if (index.Date == "2016-04-22") {
-                    if (index.CategorieVisiteurs == "Touriste Français") {
-
-                            var Volume = parseInt(index.Volume);
-                        if (!isNaN(Volume)) {
-                            VolumeTotalFR += Volume;
-                        }
-                    }
-                }
-            });
-            
-            console.log(VolumeTotalFR);
-
-
-
-
+            // Touriste Français Vendredi veillée
+            console.log(get_volume(data, "2016-04-22", "Touriste Français"));
 
             // Diagramme Camembert
-            var pie = new d3pie("Nuitée veillée", {
+            var pie = new d3pie("pieChart", {
                 "header": {
                     "title": {
-                        "text": "Test Nuitée",
-                        "fontSize": 22,
+                        "text": "Lots of Programming Languages",
+                        "fontSize": 24,
+                        "font": "open sans"
                     },
                     "subtitle": {
-                        "text": "Je fais une batterie de test pour la base de donnée Nuitée Veillée",
+                        "text": "A full pie chart to show off label collision detection and resolution.",
                         "color": "#999999",
-                        "fontSize": 10,
+                        "fontSize": 12,
+                        "font": "open sans"
                     },
-                    "titleSubtitlePadding": 12
+                    "titleSubtitlePadding": 9
                 },
                 "footer": {
-                    "text": "Hey ! Je suis le footer",
                     "color": "#999999",
-                    "fontSize": 11,
-                    "location": "bottom-center"
+                    "fontSize": 10,
+                    "font": "open sans",
+                    "location": "bottom-left"
                 },
                 "size": {
-                    "canvasHeight": 400,
                     "canvasWidth": 590,
-                    "pieOuterRadius": "88%"
+                    "pieOuterRadius": "90%"
                 },
                 "data": {
+                    "sortOrder": "value-desc",
                     "content": [
                         {
-                            "label": "Touriste Français",
-                            "value": "bala",
-                            "color": "#7e3838"
+                            "label": "JavaScript",
+                            "value": 264131,
+                            "color": "#2484c1"
 			},
                         {
-                            "label": "Bennnnn!",
-                            "value": 5,
-                            "color": "#7e6538"
+                            "label": "Ruby",
+                            "value": 218812,
+                            "color": "#0c6197"
 			},
                         {
-                            "label": "Oh, god.",
-                            "value": 2,
-                            "color": "#7c7e38"
+                            "label": "Java",
+                            "value": 157618,
+                            "color": "#4daa4b"
 			},
                         {
-                            "label": "But it's Friday night!",
-                            "value": 3,
-                            "color": "#587e38"
+                            "label": "PHP",
+                            "value": 114384,
+                            "color": "#90c469"
 			},
                         {
-                            "label": "Again?",
-                            "value": 2,
-                            "color": "#387e45"
+                            "label": "Python",
+                            "value": 95002,
+                            "color": "#daca61"
 			},
                         {
-                            "label": "I'm considering an affair.",
-                            "value": 1,
-                            "color": "#387e6a"
+                            "label": "C+",
+                            "value": 78327,
+                            "color": "#e4a14b"
 			},
                         {
-                            "label": "[baleful stare]",
-                            "value": 3,
-                            "color": "#386a7e"
+                            "label": "C",
+                            "value": 67706,
+                            "color": "#e98125"
+			},
+                        {
+                            "label": "Objective-C",
+                            "value": 36344,
+                            "color": "#cb2121"
+			},
+                        {
+                            "label": "Shell",
+                            "value": 28561,
+                            "color": "#830909"
+			},
+                        {
+                            "label": "Cobol",
+                            "value": 24131,
+                            "color": "#923e99"
+			},
+                        {
+                            "label": "C#",
+                            "value": 100,
+                            "color": "#ae83d5"
+			},
+                        {
+                            "label": "Coldfusion",
+                            "value": 68,
+                            "color": "#bf273e"
+			},
+                        {
+                            "label": "Fortran",
+                            "value": 218812,
+                            "color": "#ce2aeb"
+			},
+                        {
+                            "label": "Coffeescript",
+                            "value": 157618,
+                            "color": "#bca44a"
+			},
+                        {
+                            "label": "Node",
+                            "value": 114384,
+                            "color": "#618d1b"
+			},
+                        {
+                            "label": "Basic",
+                            "value": 95002,
+                            "color": "#1ee67b"
+			},
+                        {
+                            "label": "Cola",
+                            "value": 36344,
+                            "color": "#b0ec44"
+			},
+                        {
+                            "label": "Perl",
+                            "value": 32170,
+                            "color": "#a4a0c9"
+			},
+                        {
+                            "label": "Dart",
+                            "value": 28561,
+                            "color": "#322849"
+			},
+                        {
+                            "label": "Go",
+                            "value": 264131,
+                            "color": "#86f71a"
+			},
+                        {
+                            "label": "Groovy",
+                            "value": 218812,
+                            "color": "#d1c87f"
+			},
+                        {
+                            "label": "Processing",
+                            "value": 157618,
+                            "color": "#7d9058"
+			},
+                        {
+                            "label": "Smalltalk",
+                            "value": 114384,
+                            "color": "#44b9b0"
+			},
+                        {
+                            "label": "Scala",
+                            "value": 95002,
+                            "color": "#7c37c0"
+			},
+                        {
+                            "label": "Visual Basic",
+                            "value": 78327,
+                            "color": "#cc9fb1"
+			},
+                        {
+                            "label": "Scheme",
+                            "value": 67706,
+                            "color": "#e65414"
+			},
+                        {
+                            "label": "Rust",
+                            "value": 36344,
+                            "color": "#8b6834"
+			},
+                        {
+                            "label": "FoxPro",
+                            "value": 32170,
+                            "color": "#248838"
 			}
 		]
                 },
@@ -96,23 +205,21 @@ $(window).on('load', function () {
                         "pieDistance": 32
                     },
                     "inner": {
-                        "format": "value"
+                        "hideWhenLessThanPercentage": 3
                     },
                     "mainLabel": {
-                        "font": "verdana"
+                        "fontSize": 11
                     },
                     "percentage": {
-                        "color": "#e1e1e1",
-                        "font": "verdana",
+                        "color": "#ffffff",
                         "decimalPlaces": 0
                     },
                     "value": {
-                        "color": "#e1e1e1",
-                        "font": "verdana"
+                        "color": "#adadad",
+                        "fontSize": 11
                     },
                     "lines": {
-                        "enabled": true,
-                        "color": "#cccccc"
+                        "enabled": true
                     },
                     "truncation": {
                         "enabled": true
@@ -123,6 +230,12 @@ $(window).on('load', function () {
                         "effect": "linear",
                         "speed": 400,
                         "size": 8
+                    }
+                },
+                "misc": {
+                    "gradient": {
+                        "enabled": true,
+                        "percentage": 100
                     }
                 }
             });

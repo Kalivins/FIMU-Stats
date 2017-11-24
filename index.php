@@ -58,7 +58,7 @@
 						<h2>CATEGORIE</h2>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<h3>GRAPHIQUE 2016</h3>
+						<div id="pieChart"></div>
 						<div class="btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
 							<input type="radio" name="options" id="option1" autocomplete="off" checked> Radio 1
@@ -115,6 +115,7 @@
     
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/d3.min.js"></script>
+    <script src="assets/js/d3pie.min.js"></script>
     <script src="assets/js/app.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
 </body>
