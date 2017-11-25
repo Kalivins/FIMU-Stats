@@ -1,0 +1,1261 @@
+Date;JourDeLaSemaine;TypeNuitee;CategorieVisiteurs;ZoneNuitee;Volume
+2016-04-22;Vendredi;Veille;Résident ;Ville de Belfort;5760
+2016-04-22;Vendredi;Veille;Résident ;Agglomeration de Belfort;2041
+2016-04-22;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;88
+2016-04-22;Vendredi;Veille;Résident ;Agglomeration de Hericourt;58
+2016-04-22;Vendredi;Veille;Résident ;Reste Territoire de Belfort;893
+2016-04-22;Vendredi;Veille;Résident ;Reste Haute Saone;39
+2016-04-22;Vendredi;Veille;Résident ;Reste Doubs;58
+2016-04-22;Vendredi;Veille;Résident ;Haut Rhin Sud;#
+2016-04-22;Vendredi;Veille;Résident ;Haut Rhin Nord;#
+2016-04-22;Vendredi;Veille;Touriste Français;Ville de Belfort;753
+2016-04-22;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;148
+2016-04-22;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;497
+2016-04-22;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;212
+2016-04-22;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;65
+2016-04-22;Vendredi;Veille;Touriste Français;Reste Haute Saone;164
+2016-04-22;Vendredi;Veille;Touriste Français;Reste Doubs;165
+2016-04-22;Vendredi;Veille;Touriste Français;Haut Rhin Sud;151
+2016-04-22;Vendredi;Veille;Touriste Français;Haut Rhin Nord;32
+2016-04-22;Vendredi;Veille;Touriste Français;Vosges;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Ville de Belfort;202
+2016-04-22;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;22
+2016-04-22;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;23
+2016-04-22;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-04-22;Vendredi;Veille;Touriste Etranger;Vosges;#
+2016-04-23;Samedi;Veille;Résident ;Ville de Belfort;5364
+2016-04-23;Samedi;Veille;Résident ;Agglomeration de Belfort;1188
+2016-04-23;Samedi;Veille;Résident ;Agglomeration de Montbeliard;68
+2016-04-23;Samedi;Veille;Résident ;Agglomeration de Hericourt;29
+2016-04-23;Samedi;Veille;Résident ;Reste Territoire de Belfort;481
+2016-04-23;Samedi;Veille;Résident ;Reste Haute Saone;39
+2016-04-23;Samedi;Veille;Résident ;Reste Doubs;#
+2016-04-23;Samedi;Veille;Résident ;Haut Rhin Sud;#
+2016-04-23;Samedi;Veille;Résident ;Haut Rhin Nord;#
+2016-04-23;Samedi;Veille;Touriste Français;Ville de Belfort;783
+2016-04-23;Samedi;Veille;Touriste Français;Agglomeration de Belfort;124
+2016-04-23;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;270
+2016-04-23;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;176
+2016-04-23;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;50
+2016-04-23;Samedi;Veille;Touriste Français;Reste Haute Saone;150
+2016-04-23;Samedi;Veille;Touriste Français;Reste Doubs;213
+2016-04-23;Samedi;Veille;Touriste Français;Haut Rhin Sud;131
+2016-04-23;Samedi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-04-23;Samedi;Veille;Touriste Français;Vosges;#
+2016-04-23;Samedi;Veille;Touriste Etranger;Ville de Belfort;219
+2016-04-23;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;33
+2016-04-23;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-23;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-23;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;21
+2016-04-23;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-23;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-24;Dimanche;Veille;Résident ;Ville de Belfort;4721
+2016-04-24;Dimanche;Veille;Résident ;Agglomeration de Belfort;501
+2016-04-24;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;59
+2016-04-24;Dimanche;Veille;Résident ;Reste Territoire de Belfort;137
+2016-04-24;Dimanche;Veille;Résident ;Reste Haute Saone;#
+2016-04-24;Dimanche;Veille;Résident ;Reste Doubs;39
+2016-04-24;Dimanche;Veille;Résident ;Haut Rhin Sud;#
+2016-04-24;Dimanche;Veille;Résident ;Haut Rhin Nord;#
+2016-04-24;Dimanche;Veille;Résident ;Vosges;#
+2016-04-24;Dimanche;Veille;Touriste Français;Ville de Belfort;611
+2016-04-24;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;71
+2016-04-24;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;173
+2016-04-24;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;37
+2016-04-24;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;#
+2016-04-24;Dimanche;Veille;Touriste Français;Reste Haute Saone;73
+2016-04-24;Dimanche;Veille;Touriste Français;Reste Doubs;115
+2016-04-24;Dimanche;Veille;Touriste Français;Haut Rhin Sud;100
+2016-04-24;Dimanche;Veille;Touriste Français;Haut Rhin Nord;39
+2016-04-24;Dimanche;Veille;Touriste Français;Vosges;28
+2016-04-24;Dimanche;Veille;Touriste Etranger;Ville de Belfort;182
+2016-04-24;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-04-24;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-24;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-24;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-24;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-25;Lundi;Veille;Résident ;Ville de Belfort;5987
+2016-04-25;Lundi;Veille;Résident ;Agglomeration de Belfort;1910
+2016-04-25;Lundi;Veille;Résident ;Agglomeration de Montbeliard;137
+2016-04-25;Lundi;Veille;Résident ;Agglomeration de Hericourt;59
+2016-04-25;Lundi;Veille;Résident ;Reste Territoire de Belfort;955
+2016-04-25;Lundi;Veille;Résident ;Reste Haute Saone;68
+2016-04-25;Lundi;Veille;Résident ;Reste Doubs;#
+2016-04-25;Lundi;Veille;Résident ;Haut Rhin Sud;#
+2016-04-25;Lundi;Veille;Touriste Français;Ville de Belfort;822
+2016-04-25;Lundi;Veille;Touriste Français;Agglomeration de Belfort;125
+2016-04-25;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;313
+2016-04-25;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;129
+2016-04-25;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;43
+2016-04-25;Lundi;Veille;Touriste Français;Reste Haute Saone;213
+2016-04-25;Lundi;Veille;Touriste Français;Reste Doubs;178
+2016-04-25;Lundi;Veille;Touriste Français;Haut Rhin Sud;196
+2016-04-25;Lundi;Veille;Touriste Français;Haut Rhin Nord;64
+2016-04-25;Lundi;Veille;Touriste Français;Vosges;30
+2016-04-25;Lundi;Veille;Touriste Etranger;Ville de Belfort;167
+2016-04-25;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;37
+2016-04-25;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-25;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-04-25;Lundi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-25;Lundi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-25;Lundi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-25;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-04-26;Mardi;Veille;Résident ;Ville de Belfort;6536
+2016-04-26;Mardi;Veille;Résident ;Agglomeration de Belfort;1873
+2016-04-26;Mardi;Veille;Résident ;Agglomeration de Montbeliard;98
+2016-04-26;Mardi;Veille;Résident ;Agglomeration de Hericourt;59
+2016-04-26;Mardi;Veille;Résident ;Reste Territoire de Belfort;1163
+2016-04-26;Mardi;Veille;Résident ;Reste Haute Saone;78
+2016-04-26;Mardi;Veille;Résident ;Reste Doubs;#
+2016-04-26;Mardi;Veille;Résident ;Haut Rhin Sud;#
+2016-04-26;Mardi;Veille;Touriste Français;Ville de Belfort;912
+2016-04-26;Mardi;Veille;Touriste Français;Agglomeration de Belfort;125
+2016-04-26;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;369
+2016-04-26;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;156
+2016-04-26;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;71
+2016-04-26;Mardi;Veille;Touriste Français;Reste Haute Saone;173
+2016-04-26;Mardi;Veille;Touriste Français;Reste Doubs;152
+2016-04-26;Mardi;Veille;Touriste Français;Haut Rhin Sud;185
+2016-04-26;Mardi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-04-26;Mardi;Veille;Touriste Français;Vosges;30
+2016-04-26;Mardi;Veille;Touriste Etranger;Ville de Belfort;213
+2016-04-26;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;39
+2016-04-26;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-26;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-04-27;Mercredi;Veille;Résident ;Ville de Belfort;6188
+2016-04-27;Mercredi;Veille;Résident ;Agglomeration de Belfort;1993
+2016-04-27;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;98
+2016-04-27;Mercredi;Veille;Résident ;Agglomeration de Hericourt;69
+2016-04-27;Mercredi;Veille;Résident ;Reste Territoire de Belfort;977
+2016-04-27;Mercredi;Veille;Résident ;Reste Haute Saone;39
+2016-04-27;Mercredi;Veille;Résident ;Reste Doubs;29
+2016-04-27;Mercredi;Veille;Résident ;Haut Rhin Sud;39
+2016-04-27;Mercredi;Veille;Résident ;Haut Rhin Nord;#
+2016-04-27;Mercredi;Veille;Résident ;Vosges;#
+2016-04-27;Mercredi;Veille;Touriste Français;Ville de Belfort;1090
+2016-04-27;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;154
+2016-04-27;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;351
+2016-04-27;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;150
+2016-04-27;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;48
+2016-04-27;Mercredi;Veille;Touriste Français;Reste Haute Saone;189
+2016-04-27;Mercredi;Veille;Touriste Français;Reste Doubs;222
+2016-04-27;Mercredi;Veille;Touriste Français;Haut Rhin Sud;157
+2016-04-27;Mercredi;Veille;Touriste Français;Haut Rhin Nord;65
+2016-04-27;Mercredi;Veille;Touriste Français;Vosges;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Ville de Belfort;241
+2016-04-27;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;42
+2016-04-27;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-27;Mercredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-28;Jeudi;Veille;Résident ;Ville de Belfort;6452
+2016-04-28;Jeudi;Veille;Résident ;Agglomeration de Belfort;2282
+2016-04-28;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;148
+2016-04-28;Jeudi;Veille;Résident ;Agglomeration de Hericourt;69
+2016-04-28;Jeudi;Veille;Résident ;Reste Territoire de Belfort;1175
+2016-04-28;Jeudi;Veille;Résident ;Reste Haute Saone;59
+2016-04-28;Jeudi;Veille;Résident ;Reste Doubs;#
+2016-04-28;Jeudi;Veille;Résident ;Haut Rhin Sud;39
+2016-04-28;Jeudi;Veille;Résident ;Haut Rhin Nord;#
+2016-04-28;Jeudi;Veille;Touriste Français;Ville de Belfort;1023
+2016-04-28;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;179
+2016-04-28;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;464
+2016-04-28;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;257
+2016-04-28;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;57
+2016-04-28;Jeudi;Veille;Touriste Français;Reste Haute Saone;198
+2016-04-28;Jeudi;Veille;Touriste Français;Reste Doubs;253
+2016-04-28;Jeudi;Veille;Touriste Français;Haut Rhin Sud;174
+2016-04-28;Jeudi;Veille;Touriste Français;Haut Rhin Nord;38
+2016-04-28;Jeudi;Veille;Touriste Français;Vosges;28
+2016-04-28;Jeudi;Veille;Touriste Etranger;Ville de Belfort;228
+2016-04-28;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;26
+2016-04-28;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;22
+2016-04-28;Jeudi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-28;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-04-28;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-28;Jeudi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-28;Jeudi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-28;Jeudi;Veille;Touriste Etranger;Vosges;#
+2016-04-29;Vendredi;Veille;Résident ;Ville de Belfort;6885
+2016-04-29;Vendredi;Veille;Résident ;Agglomeration de Belfort;2225
+2016-04-29;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;98
+2016-04-29;Vendredi;Veille;Résident ;Agglomeration de Hericourt;69
+2016-04-29;Vendredi;Veille;Résident ;Reste Territoire de Belfort;1216
+2016-04-29;Vendredi;Veille;Résident ;Reste Haute Saone;59
+2016-04-29;Vendredi;Veille;Résident ;Reste Doubs;69
+2016-04-29;Vendredi;Veille;Résident ;Haut Rhin Sud;49
+2016-04-29;Vendredi;Veille;Résident ;Haut Rhin Nord;#
+2016-04-29;Vendredi;Veille;Touriste Français;Ville de Belfort;998
+2016-04-29;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;222
+2016-04-29;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;564
+2016-04-29;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;208
+2016-04-29;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;74
+2016-04-29;Vendredi;Veille;Touriste Français;Reste Haute Saone;203
+2016-04-29;Vendredi;Veille;Touriste Français;Reste Doubs;241
+2016-04-29;Vendredi;Veille;Touriste Français;Haut Rhin Sud;164
+2016-04-29;Vendredi;Veille;Touriste Français;Haut Rhin Nord;25
+2016-04-29;Vendredi;Veille;Touriste Etranger;Ville de Belfort;209
+2016-04-29;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;36
+2016-04-29;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;38
+2016-04-29;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-29;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-04-29;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-29;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-29;Vendredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-04-30;Samedi;Veille;Résident ;Ville de Belfort;5694
+2016-04-30;Samedi;Veille;Résident ;Agglomeration de Belfort;1535
+2016-04-30;Samedi;Veille;Résident ;Agglomeration de Montbeliard;29
+2016-04-30;Samedi;Veille;Résident ;Agglomeration de Hericourt;#
+2016-04-30;Samedi;Veille;Résident ;Reste Territoire de Belfort;584
+2016-04-30;Samedi;Veille;Résident ;Reste Haute Saone;#
+2016-04-30;Samedi;Veille;Résident ;Vosges;#
+2016-04-30;Samedi;Veille;Touriste Français;Ville de Belfort;915
+2016-04-30;Samedi;Veille;Touriste Français;Agglomeration de Belfort;84
+2016-04-30;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;293
+2016-04-30;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;132
+2016-04-30;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;115
+2016-04-30;Samedi;Veille;Touriste Français;Reste Haute Saone;189
+2016-04-30;Samedi;Veille;Touriste Français;Reste Doubs;227
+2016-04-30;Samedi;Veille;Touriste Français;Haut Rhin Sud;177
+2016-04-30;Samedi;Veille;Touriste Français;Haut Rhin Nord;95
+2016-04-30;Samedi;Veille;Touriste Français;Vosges;50
+2016-04-30;Samedi;Veille;Touriste Etranger;Ville de Belfort;232
+2016-04-30;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;40
+2016-04-30;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-04-30;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-04-30;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;24
+2016-04-30;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-04-30;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-04-30;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-04-30;Samedi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-01;Dimanche;Veille;Résident ;Ville de Belfort;4798
+2016-05-01;Dimanche;Veille;Résident ;Agglomeration de Belfort;684
+2016-05-01;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;39
+2016-05-01;Dimanche;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-01;Dimanche;Veille;Résident ;Reste Territoire de Belfort;208
+2016-05-01;Dimanche;Veille;Résident ;Reste Haute Saone;29
+2016-05-01;Dimanche;Veille;Résident ;Reste Doubs;49
+2016-05-01;Dimanche;Veille;Résident ;Haut Rhin Nord;#
+2016-05-01;Dimanche;Veille;Résident ;Vosges;#
+2016-05-01;Dimanche;Veille;Touriste Français;Ville de Belfort;757
+2016-05-01;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;69
+2016-05-01;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;148
+2016-05-01;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;50
+2016-05-01;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;#
+2016-05-01;Dimanche;Veille;Touriste Français;Reste Haute Saone;62
+2016-05-01;Dimanche;Veille;Touriste Français;Reste Doubs;138
+2016-05-01;Dimanche;Veille;Touriste Français;Haut Rhin Sud;111
+2016-05-01;Dimanche;Veille;Touriste Français;Haut Rhin Nord;73
+2016-05-01;Dimanche;Veille;Touriste Français;Vosges;30
+2016-05-01;Dimanche;Veille;Touriste Etranger;Ville de Belfort;242
+2016-05-01;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-01;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-01;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-01;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-01;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-01;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-02;Lundi;Veille;Résident ;Ville de Belfort;6581
+2016-05-02;Lundi;Veille;Résident ;Agglomeration de Belfort;1955
+2016-05-02;Lundi;Veille;Résident ;Agglomeration de Montbeliard;148
+2016-05-02;Lundi;Veille;Résident ;Agglomeration de Hericourt;59
+2016-05-02;Lundi;Veille;Résident ;Reste Territoire de Belfort;873
+2016-05-02;Lundi;Veille;Résident ;Reste Haute Saone;49
+2016-05-02;Lundi;Veille;Résident ;Reste Doubs;29
+2016-05-02;Lundi;Veille;Résident ;Haut Rhin Sud;99
+2016-05-02;Lundi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-02;Lundi;Veille;Touriste Français;Ville de Belfort;852
+2016-05-02;Lundi;Veille;Touriste Français;Agglomeration de Belfort;149
+2016-05-02;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;334
+2016-05-02;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;157
+2016-05-02;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;66
+2016-05-02;Lundi;Veille;Touriste Français;Reste Haute Saone;182
+2016-05-02;Lundi;Veille;Touriste Français;Reste Doubs;299
+2016-05-02;Lundi;Veille;Touriste Français;Haut Rhin Sud;188
+2016-05-02;Lundi;Veille;Touriste Français;Haut Rhin Nord;26
+2016-05-02;Lundi;Veille;Touriste Français;Vosges;24
+2016-05-02;Lundi;Veille;Touriste Etranger;Ville de Belfort;213
+2016-05-02;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;25
+2016-05-02;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-02;Lundi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-02;Lundi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-02;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-03;Mardi;Veille;Résident ;Ville de Belfort;6688
+2016-05-03;Mardi;Veille;Résident ;Agglomeration de Belfort;2186
+2016-05-03;Mardi;Veille;Résident ;Agglomeration de Montbeliard;89
+2016-05-03;Mardi;Veille;Résident ;Agglomeration de Hericourt;109
+2016-05-03;Mardi;Veille;Résident ;Reste Territoire de Belfort;1152
+2016-05-03;Mardi;Veille;Résident ;Reste Haute Saone;59
+2016-05-03;Mardi;Veille;Résident ;Reste Doubs;#
+2016-05-03;Mardi;Veille;Résident ;Haut Rhin Sud;29
+2016-05-03;Mardi;Veille;Touriste Français;Ville de Belfort;1089
+2016-05-03;Mardi;Veille;Touriste Français;Agglomeration de Belfort;232
+2016-05-03;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;427
+2016-05-03;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;168
+2016-05-03;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;82
+2016-05-03;Mardi;Veille;Touriste Français;Reste Haute Saone;204
+2016-05-03;Mardi;Veille;Touriste Français;Reste Doubs;246
+2016-05-03;Mardi;Veille;Touriste Français;Haut Rhin Sud;124
+2016-05-03;Mardi;Veille;Touriste Français;Haut Rhin Nord;38
+2016-05-03;Mardi;Veille;Touriste Français;Vosges;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Ville de Belfort;179
+2016-05-03;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;23
+2016-05-03;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;36
+2016-05-03;Mardi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-03;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-04;Mercredi;Veille;Résident ;Ville de Belfort;6098
+2016-05-04;Mercredi;Veille;Résident ;Agglomeration de Belfort;1760
+2016-05-04;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;149
+2016-05-04;Mercredi;Veille;Résident ;Agglomeration de Hericourt;39
+2016-05-04;Mercredi;Veille;Résident ;Reste Territoire de Belfort;895
+2016-05-04;Mercredi;Veille;Résident ;Reste Haute Saone;39
+2016-05-04;Mercredi;Veille;Résident ;Reste Doubs;#
+2016-05-04;Mercredi;Veille;Résident ;Haut Rhin Sud;29
+2016-05-04;Mercredi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-04;Mercredi;Veille;Touriste Français;Ville de Belfort;923
+2016-05-04;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;120
+2016-05-04;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;456
+2016-05-04;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;197
+2016-05-04;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;55
+2016-05-04;Mercredi;Veille;Touriste Français;Reste Haute Saone;203
+2016-05-04;Mercredi;Veille;Touriste Français;Reste Doubs;262
+2016-05-04;Mercredi;Veille;Touriste Français;Haut Rhin Sud;153
+2016-05-04;Mercredi;Veille;Touriste Français;Haut Rhin Nord;48
+2016-05-04;Mercredi;Veille;Touriste Français;Vosges;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Ville de Belfort;205
+2016-05-04;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;27
+2016-05-04;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-04;Mercredi;Veille;Touriste Etranger;Vosges;#
+2016-05-05;Jeudi;Veille;Résident ;Ville de Belfort;4760
+2016-05-05;Jeudi;Veille;Résident ;Agglomeration de Belfort;1075
+2016-05-05;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;59
+2016-05-05;Jeudi;Veille;Résident ;Agglomeration de Hericourt;39
+2016-05-05;Jeudi;Veille;Résident ;Reste Territoire de Belfort;488
+2016-05-05;Jeudi;Veille;Résident ;Reste Haute Saone;#
+2016-05-05;Jeudi;Veille;Résident ;Reste Doubs;#
+2016-05-05;Jeudi;Veille;Résident ;Haut Rhin Sud;29
+2016-05-05;Jeudi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-05;Jeudi;Veille;Touriste Français;Ville de Belfort;671
+2016-05-05;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;91
+2016-05-05;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;349
+2016-05-05;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;82
+2016-05-05;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;30
+2016-05-05;Jeudi;Veille;Touriste Français;Reste Haute Saone;88
+2016-05-05;Jeudi;Veille;Touriste Français;Reste Doubs;144
+2016-05-05;Jeudi;Veille;Touriste Français;Haut Rhin Sud;220
+2016-05-05;Jeudi;Veille;Touriste Français;Haut Rhin Nord;36
+2016-05-05;Jeudi;Veille;Touriste Français;Vosges;37
+2016-05-05;Jeudi;Veille;Touriste Etranger;Ville de Belfort;197
+2016-05-05;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-05;Jeudi;Veille;Touriste Etranger;Vosges;#
+2016-05-06;Vendredi;Veille;Résident ;Ville de Belfort;6152
+2016-05-06;Vendredi;Veille;Résident ;Agglomeration de Belfort;1914
+2016-05-06;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;149
+2016-05-06;Vendredi;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-06;Vendredi;Veille;Résident ;Reste Territoire de Belfort;937
+2016-05-06;Vendredi;Veille;Résident ;Reste Haute Saone;49
+2016-05-06;Vendredi;Veille;Résident ;Reste Doubs;#
+2016-05-06;Vendredi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-06;Vendredi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-06;Vendredi;Veille;Touriste Français;Ville de Belfort;985
+2016-05-06;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;229
+2016-05-06;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;437
+2016-05-06;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;237
+2016-05-06;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;117
+2016-05-06;Vendredi;Veille;Touriste Français;Reste Haute Saone;300
+2016-05-06;Vendredi;Veille;Touriste Français;Reste Doubs;246
+2016-05-06;Vendredi;Veille;Touriste Français;Haut Rhin Sud;200
+2016-05-06;Vendredi;Veille;Touriste Français;Haut Rhin Nord;59
+2016-05-06;Vendredi;Veille;Touriste Français;Vosges;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Ville de Belfort;290
+2016-05-06;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;41
+2016-05-06;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;27
+2016-05-06;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;23
+2016-05-06;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-06;Vendredi;Veille;Touriste Etranger;Vosges;#
+2016-05-07;Samedi;Veille;Résident ;Ville de Belfort;6019
+2016-05-07;Samedi;Veille;Résident ;Agglomeration de Belfort;1756
+2016-05-07;Samedi;Veille;Résident ;Agglomeration de Montbeliard;99
+2016-05-07;Samedi;Veille;Résident ;Agglomeration de Hericourt;49
+2016-05-07;Samedi;Veille;Résident ;Reste Territoire de Belfort;798
+2016-05-07;Samedi;Veille;Résident ;Reste Haute Saone;49
+2016-05-07;Samedi;Veille;Résident ;Reste Doubs;#
+2016-05-07;Samedi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-07;Samedi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-07;Samedi;Veille;Résident ;Vosges;#
+2016-05-07;Samedi;Veille;Touriste Français;Ville de Belfort;928
+2016-05-07;Samedi;Veille;Touriste Français;Agglomeration de Belfort;248
+2016-05-07;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;525
+2016-05-07;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;127
+2016-05-07;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;135
+2016-05-07;Samedi;Veille;Touriste Français;Reste Haute Saone;220
+2016-05-07;Samedi;Veille;Touriste Français;Reste Doubs;257
+2016-05-07;Samedi;Veille;Touriste Français;Haut Rhin Sud;254
+2016-05-07;Samedi;Veille;Touriste Français;Haut Rhin Nord;47
+2016-05-07;Samedi;Veille;Touriste Français;Vosges;98
+2016-05-07;Samedi;Veille;Touriste Etranger;Ville de Belfort;320
+2016-05-07;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;39
+2016-05-07;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-07;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-07;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-07;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-07;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-07;Samedi;Veille;Touriste Etranger;Vosges;#
+2016-05-08;Dimanche;Veille;Résident ;Ville de Belfort;4627
+2016-05-08;Dimanche;Veille;Résident ;Agglomeration de Belfort;819
+2016-05-08;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;69
+2016-05-08;Dimanche;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-08;Dimanche;Veille;Résident ;Reste Territoire de Belfort;219
+2016-05-08;Dimanche;Veille;Résident ;Reste Haute Saone;29
+2016-05-08;Dimanche;Veille;Résident ;Reste Doubs;49
+2016-05-08;Dimanche;Veille;Résident ;Haut Rhin Sud;29
+2016-05-08;Dimanche;Veille;Résident ;Vosges;#
+2016-05-08;Dimanche;Veille;Touriste Français;Ville de Belfort;652
+2016-05-08;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;99
+2016-05-08;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;214
+2016-05-08;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;58
+2016-05-08;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;#
+2016-05-08;Dimanche;Veille;Touriste Français;Reste Haute Saone;86
+2016-05-08;Dimanche;Veille;Touriste Français;Reste Doubs;49
+2016-05-08;Dimanche;Veille;Touriste Français;Haut Rhin Sud;74
+2016-05-08;Dimanche;Veille;Touriste Français;Haut Rhin Nord;56
+2016-05-08;Dimanche;Veille;Touriste Français;Vosges;32
+2016-05-08;Dimanche;Veille;Touriste Etranger;Ville de Belfort;212
+2016-05-08;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-08;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-09;Lundi;Veille;Résident ;Ville de Belfort;6283
+2016-05-09;Lundi;Veille;Résident ;Agglomeration de Belfort;1870
+2016-05-09;Lundi;Veille;Résident ;Agglomeration de Montbeliard;110
+2016-05-09;Lundi;Veille;Résident ;Agglomeration de Hericourt;60
+2016-05-09;Lundi;Veille;Résident ;Reste Territoire de Belfort;950
+2016-05-09;Lundi;Veille;Résident ;Reste Haute Saone;80
+2016-05-09;Lundi;Veille;Résident ;Reste Doubs;#
+2016-05-09;Lundi;Veille;Résident ;Haut Rhin Sud;80
+2016-05-09;Lundi;Veille;Touriste Français;Ville de Belfort;887
+2016-05-09;Lundi;Veille;Touriste Français;Agglomeration de Belfort;149
+2016-05-09;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;379
+2016-05-09;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;151
+2016-05-09;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;40
+2016-05-09;Lundi;Veille;Touriste Français;Reste Haute Saone;178
+2016-05-09;Lundi;Veille;Touriste Français;Reste Doubs;281
+2016-05-09;Lundi;Veille;Touriste Français;Haut Rhin Sud;139
+2016-05-09;Lundi;Veille;Touriste Français;Haut Rhin Nord;74
+2016-05-09;Lundi;Veille;Touriste Français;Vosges;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Ville de Belfort;161
+2016-05-09;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-09;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-10;Mardi;Veille;Résident ;Ville de Belfort;6711
+2016-05-10;Mardi;Veille;Résident ;Agglomeration de Belfort;1873
+2016-05-10;Mardi;Veille;Résident ;Agglomeration de Montbeliard;90
+2016-05-10;Mardi;Veille;Résident ;Agglomeration de Hericourt;50
+2016-05-10;Mardi;Veille;Résident ;Reste Territoire de Belfort;1091
+2016-05-10;Mardi;Veille;Résident ;Reste Haute Saone;90
+2016-05-10;Mardi;Veille;Résident ;Reste Doubs;#
+2016-05-10;Mardi;Veille;Résident ;Haut Rhin Sud;80
+2016-05-10;Mardi;Veille;Touriste Français;Ville de Belfort;982
+2016-05-10;Mardi;Veille;Touriste Français;Agglomeration de Belfort;195
+2016-05-10;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;488
+2016-05-10;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;167
+2016-05-10;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;67
+2016-05-10;Mardi;Veille;Touriste Français;Reste Haute Saone;210
+2016-05-10;Mardi;Veille;Touriste Français;Reste Doubs;284
+2016-05-10;Mardi;Veille;Touriste Français;Haut Rhin Sud;212
+2016-05-10;Mardi;Veille;Touriste Français;Haut Rhin Nord;48
+2016-05-10;Mardi;Veille;Touriste Français;Vosges;#
+2016-05-10;Mardi;Veille;Touriste Etranger;Ville de Belfort;210
+2016-05-10;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;24
+2016-05-10;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;26
+2016-05-10;Mardi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-10;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-10;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-10;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-10;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-11;Mercredi;Veille;Résident ;Ville de Belfort;6688
+2016-05-11;Mercredi;Veille;Résident ;Agglomeration de Belfort;2236
+2016-05-11;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;150
+2016-05-11;Mercredi;Veille;Résident ;Agglomeration de Hericourt;70
+2016-05-11;Mercredi;Veille;Résident ;Reste Territoire de Belfort;1203
+2016-05-11;Mercredi;Veille;Résident ;Reste Haute Saone;50
+2016-05-11;Mercredi;Veille;Résident ;Reste Doubs;70
+2016-05-11;Mercredi;Veille;Résident ;Haut Rhin Sud;70
+2016-05-11;Mercredi;Veille;Résident ;Vosges;#
+2016-05-11;Mercredi;Veille;Touriste Français;Ville de Belfort;1104
+2016-05-11;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;195
+2016-05-11;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;483
+2016-05-11;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;196
+2016-05-11;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;62
+2016-05-11;Mercredi;Veille;Touriste Français;Reste Haute Saone;188
+2016-05-11;Mercredi;Veille;Touriste Français;Reste Doubs;275
+2016-05-11;Mercredi;Veille;Touriste Français;Haut Rhin Sud;277
+2016-05-11;Mercredi;Veille;Touriste Français;Haut Rhin Nord;25
+2016-05-11;Mercredi;Veille;Touriste Français;Vosges;#
+2016-05-11;Mercredi;Veille;Touriste Etranger;Ville de Belfort;220
+2016-05-11;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;21
+2016-05-11;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-11;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-11;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;24
+2016-05-11;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-11;Mercredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-11;Mercredi;Veille;Touriste Etranger;Vosges;#
+2016-05-12;Jeudi;Veille;Résident ;Ville de Belfort;6364
+2016-05-12;Jeudi;Veille;Résident ;Agglomeration de Belfort;1867
+2016-05-12;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;100
+2016-05-12;Jeudi;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-12;Jeudi;Veille;Résident ;Reste Territoire de Belfort;1194
+2016-05-12;Jeudi;Veille;Résident ;Reste Haute Saone;60
+2016-05-12;Jeudi;Veille;Résident ;Reste Doubs;60
+2016-05-12;Jeudi;Veille;Résident ;Haut Rhin Sud;30
+2016-05-12;Jeudi;Veille;Touriste Français;Ville de Belfort;1133
+2016-05-12;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;179
+2016-05-12;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;566
+2016-05-12;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;154
+2016-05-12;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;48
+2016-05-12;Jeudi;Veille;Touriste Français;Reste Haute Saone;239
+2016-05-12;Jeudi;Veille;Touriste Français;Reste Doubs;236
+2016-05-12;Jeudi;Veille;Touriste Français;Haut Rhin Sud;196
+2016-05-12;Jeudi;Veille;Touriste Français;Haut Rhin Nord;38
+2016-05-12;Jeudi;Veille;Touriste Français;Vosges;46
+2016-05-12;Jeudi;Veille;Touriste Etranger;Ville de Belfort;186
+2016-05-12;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-12;Jeudi;Veille;Touriste Etranger;Vosges;#
+2016-05-13;Vendredi;Veille;Résident ;Ville de Belfort;6783
+2016-05-13;Vendredi;Veille;Résident ;Agglomeration de Belfort;2562
+2016-05-13;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;160
+2016-05-13;Vendredi;Veille;Résident ;Agglomeration de Hericourt;80
+2016-05-13;Vendredi;Veille;Résident ;Reste Territoire de Belfort;1376
+2016-05-13;Vendredi;Veille;Résident ;Reste Haute Saone;70
+2016-05-13;Vendredi;Veille;Résident ;Reste Doubs;60
+2016-05-13;Vendredi;Veille;Résident ;Haut Rhin Sud;70
+2016-05-13;Vendredi;Veille;Résident ;Haut Rhin Nord;30
+2016-05-13;Vendredi;Veille;Touriste Français;Ville de Belfort;1137
+2016-05-13;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;200
+2016-05-13;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;606
+2016-05-13;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;184
+2016-05-13;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;97
+2016-05-13;Vendredi;Veille;Touriste Français;Reste Haute Saone;300
+2016-05-13;Vendredi;Veille;Touriste Français;Reste Doubs;387
+2016-05-13;Vendredi;Veille;Touriste Français;Haut Rhin Sud;266
+2016-05-13;Vendredi;Veille;Touriste Français;Haut Rhin Nord;48
+2016-05-13;Vendredi;Veille;Touriste Français;Vosges;#
+2016-05-13;Vendredi;Veille;Touriste Etranger;Ville de Belfort;261
+2016-05-13;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;43
+2016-05-13;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-13;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;67
+2016-05-13;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-13;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-14;Samedi;Veille;Résident ;Ville de Belfort;8069
+2016-05-14;Samedi;Veille;Résident ;Agglomeration de Belfort;3491
+2016-05-14;Samedi;Veille;Résident ;Agglomeration de Montbeliard;261
+2016-05-14;Samedi;Veille;Résident ;Agglomeration de Hericourt;110
+2016-05-14;Samedi;Veille;Résident ;Reste Territoire de Belfort;1962
+2016-05-14;Samedi;Veille;Résident ;Reste Haute Saone;60
+2016-05-14;Samedi;Veille;Résident ;Reste Doubs;90
+2016-05-14;Samedi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-14;Samedi;Veille;Résident ;Haut Rhin Nord;40
+2016-05-14;Samedi;Veille;Résident ;Vosges;#
+2016-05-14;Samedi;Veille;Touriste Français;Ville de Belfort;1513
+2016-05-14;Samedi;Veille;Touriste Français;Agglomeration de Belfort;537
+2016-05-14;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;1744
+2016-05-14;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;454
+2016-05-14;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;235
+2016-05-14;Samedi;Veille;Touriste Français;Reste Haute Saone;651
+2016-05-14;Samedi;Veille;Touriste Français;Reste Doubs;896
+2016-05-14;Samedi;Veille;Touriste Français;Haut Rhin Sud;734
+2016-05-14;Samedi;Veille;Touriste Français;Haut Rhin Nord;260
+2016-05-14;Samedi;Veille;Touriste Français;Vosges;183
+2016-05-14;Samedi;Veille;Touriste Etranger;Ville de Belfort;356
+2016-05-14;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;134
+2016-05-14;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;23
+2016-05-14;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-14;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;31
+2016-05-14;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-14;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-14;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-14;Samedi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-14;Samedi;Veille;Touriste Etranger;Vosges;#
+2016-05-15;Dimanche;Veille;Résident ;Ville de Belfort;7343
+2016-05-15;Dimanche;Veille;Résident ;Agglomeration de Belfort;3545
+2016-05-15;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;322
+2016-05-15;Dimanche;Veille;Résident ;Agglomeration de Hericourt;120
+2016-05-15;Dimanche;Veille;Résident ;Reste Territoire de Belfort;1641
+2016-05-15;Dimanche;Veille;Résident ;Reste Haute Saone;110
+2016-05-15;Dimanche;Veille;Résident ;Reste Doubs;100
+2016-05-15;Dimanche;Veille;Résident ;Haut Rhin Sud;50
+2016-05-15;Dimanche;Veille;Résident ;Haut Rhin Nord;#
+2016-05-15;Dimanche;Veille;Touriste Français;Ville de Belfort;1832
+2016-05-15;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;720
+2016-05-15;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;2503
+2016-05-15;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;657
+2016-05-15;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;308
+2016-05-15;Dimanche;Veille;Touriste Français;Reste Haute Saone;935
+2016-05-15;Dimanche;Veille;Touriste Français;Reste Doubs;1349
+2016-05-15;Dimanche;Veille;Touriste Français;Haut Rhin Sud;1483
+2016-05-15;Dimanche;Veille;Touriste Français;Haut Rhin Nord;463
+2016-05-15;Dimanche;Veille;Touriste Français;Vosges;102
+2016-05-15;Dimanche;Veille;Touriste Etranger;Ville de Belfort;547
+2016-05-15;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;156
+2016-05-15;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-15;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-15;Dimanche;Veille;Touriste Etranger;Reste Territoire de Belfort;128
+2016-05-15;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-15;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-15;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;29
+2016-05-15;Dimanche;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-16;Lundi;Veille;Résident ;Ville de Belfort;6302
+2016-05-16;Lundi;Veille;Résident ;Agglomeration de Belfort;1734
+2016-05-16;Lundi;Veille;Résident ;Agglomeration de Montbeliard;121
+2016-05-16;Lundi;Veille;Résident ;Agglomeration de Hericourt;100
+2016-05-16;Lundi;Veille;Résident ;Reste Territoire de Belfort;766
+2016-05-16;Lundi;Veille;Résident ;Reste Haute Saone;131
+2016-05-16;Lundi;Veille;Résident ;Reste Doubs;#
+2016-05-16;Lundi;Veille;Résident ;Haut Rhin Sud;40
+2016-05-16;Lundi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-16;Lundi;Veille;Résident ;Vosges;#
+2016-05-16;Lundi;Veille;Touriste Français;Ville de Belfort;1258
+2016-05-16;Lundi;Veille;Touriste Français;Agglomeration de Belfort;238
+2016-05-16;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;772
+2016-05-16;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;243
+2016-05-16;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;67
+2016-05-16;Lundi;Veille;Touriste Français;Reste Haute Saone;241
+2016-05-16;Lundi;Veille;Touriste Français;Reste Doubs;501
+2016-05-16;Lundi;Veille;Touriste Français;Haut Rhin Sud;598
+2016-05-16;Lundi;Veille;Touriste Français;Haut Rhin Nord;180
+2016-05-16;Lundi;Veille;Touriste Français;Vosges;37
+2016-05-16;Lundi;Veille;Touriste Etranger;Ville de Belfort;354
+2016-05-16;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;73
+2016-05-16;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-16;Lundi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-16;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;67
+2016-05-16;Lundi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-16;Lundi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-16;Lundi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-16;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-17;Mardi;Veille;Résident ;Ville de Belfort;6501
+2016-05-17;Mardi;Veille;Résident ;Agglomeration de Belfort;2180
+2016-05-17;Mardi;Veille;Résident ;Agglomeration de Montbeliard;121
+2016-05-17;Mardi;Veille;Résident ;Agglomeration de Hericourt;60
+2016-05-17;Mardi;Veille;Résident ;Reste Territoire de Belfort;1110
+2016-05-17;Mardi;Veille;Résident ;Reste Haute Saone;90
+2016-05-17;Mardi;Veille;Résident ;Reste Doubs;30
+2016-05-17;Mardi;Veille;Résident ;Haut Rhin Sud;30
+2016-05-17;Mardi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-17;Mardi;Veille;Résident ;Vosges;#
+2016-05-17;Mardi;Veille;Touriste Français;Ville de Belfort;841
+2016-05-17;Mardi;Veille;Touriste Français;Agglomeration de Belfort;224
+2016-05-17;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;400
+2016-05-17;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;143
+2016-05-17;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;81
+2016-05-17;Mardi;Veille;Touriste Français;Reste Haute Saone;160
+2016-05-17;Mardi;Veille;Touriste Français;Reste Doubs;207
+2016-05-17;Mardi;Veille;Touriste Français;Haut Rhin Sud;136
+2016-05-17;Mardi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-05-17;Mardi;Veille;Touriste Français;Vosges;34
+2016-05-17;Mardi;Veille;Touriste Etranger;Ville de Belfort;266
+2016-05-17;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;36
+2016-05-17;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-17;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-17;Mardi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-17;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-17;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-18;Mercredi;Veille;Résident ;Ville de Belfort;6437
+2016-05-18;Mercredi;Veille;Résident ;Agglomeration de Belfort;1970
+2016-05-18;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;80
+2016-05-18;Mercredi;Veille;Résident ;Agglomeration de Hericourt;70
+2016-05-18;Mercredi;Veille;Résident ;Reste Territoire de Belfort;1051
+2016-05-18;Mercredi;Veille;Résident ;Reste Haute Saone;#
+2016-05-18;Mercredi;Veille;Résident ;Reste Doubs;#
+2016-05-18;Mercredi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-18;Mercredi;Veille;Résident ;Vosges;#
+2016-05-18;Mercredi;Veille;Touriste Français;Ville de Belfort;1034
+2016-05-18;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;143
+2016-05-18;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;457
+2016-05-18;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;224
+2016-05-18;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;39
+2016-05-18;Mercredi;Veille;Touriste Français;Reste Haute Saone;187
+2016-05-18;Mercredi;Veille;Touriste Français;Reste Doubs;262
+2016-05-18;Mercredi;Veille;Touriste Français;Haut Rhin Sud;205
+2016-05-18;Mercredi;Veille;Touriste Français;Haut Rhin Nord;43
+2016-05-18;Mercredi;Veille;Touriste Français;Vosges;#
+2016-05-18;Mercredi;Veille;Touriste Etranger;Ville de Belfort;266
+2016-05-18;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;31
+2016-05-18;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-18;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-18;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-18;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-19;Jeudi;Veille;Résident ;Ville de Belfort;6060
+2016-05-19;Jeudi;Veille;Résident ;Agglomeration de Belfort;1962
+2016-05-19;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;91
+2016-05-19;Jeudi;Veille;Résident ;Agglomeration de Hericourt;80
+2016-05-19;Jeudi;Veille;Résident ;Reste Territoire de Belfort;1224
+2016-05-19;Jeudi;Veille;Résident ;Reste Haute Saone;91
+2016-05-19;Jeudi;Veille;Résident ;Reste Doubs;40
+2016-05-19;Jeudi;Veille;Résident ;Haut Rhin Sud;40
+2016-05-19;Jeudi;Veille;Touriste Français;Ville de Belfort;1005
+2016-05-19;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;149
+2016-05-19;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;554
+2016-05-19;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;192
+2016-05-19;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;74
+2016-05-19;Jeudi;Veille;Touriste Français;Reste Haute Saone;199
+2016-05-19;Jeudi;Veille;Touriste Français;Reste Doubs;283
+2016-05-19;Jeudi;Veille;Touriste Français;Haut Rhin Sud;156
+2016-05-19;Jeudi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-05-19;Jeudi;Veille;Touriste Français;Vosges;26
+2016-05-19;Jeudi;Veille;Touriste Etranger;Ville de Belfort;267
+2016-05-19;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;34
+2016-05-19;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-19;Jeudi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-19;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-19;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-19;Jeudi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-19;Jeudi;Veille;Touriste Etranger;Vosges;#
+2016-05-20;Vendredi;Veille;Résident ;Ville de Belfort;6330
+2016-05-20;Vendredi;Veille;Résident ;Agglomeration de Belfort;2339
+2016-05-20;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;172
+2016-05-20;Vendredi;Veille;Résident ;Agglomeration de Hericourt;101
+2016-05-20;Vendredi;Veille;Résident ;Reste Territoire de Belfort;1195
+2016-05-20;Vendredi;Veille;Résident ;Reste Haute Saone;40
+2016-05-20;Vendredi;Veille;Résident ;Reste Doubs;60
+2016-05-20;Vendredi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-20;Vendredi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-20;Vendredi;Veille;Touriste Français;Ville de Belfort;969
+2016-05-20;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;188
+2016-05-20;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;628
+2016-05-20;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;256
+2016-05-20;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;61
+2016-05-20;Vendredi;Veille;Touriste Français;Reste Haute Saone;226
+2016-05-20;Vendredi;Veille;Touriste Français;Reste Doubs;302
+2016-05-20;Vendredi;Veille;Touriste Français;Haut Rhin Sud;205
+2016-05-20;Vendredi;Veille;Touriste Français;Haut Rhin Nord;64
+2016-05-20;Vendredi;Veille;Touriste Français;Vosges;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Ville de Belfort;224
+2016-05-20;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;39
+2016-05-20;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-20;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-21;Samedi;Veille;Résident ;Ville de Belfort;6003
+2016-05-21;Samedi;Veille;Résident ;Agglomeration de Belfort;1703
+2016-05-21;Samedi;Veille;Résident ;Agglomeration de Montbeliard;50
+2016-05-21;Samedi;Veille;Résident ;Agglomeration de Hericourt;70
+2016-05-21;Samedi;Veille;Résident ;Reste Territoire de Belfort;760
+2016-05-21;Samedi;Veille;Résident ;Reste Haute Saone;30
+2016-05-21;Samedi;Veille;Résident ;Reste Doubs;#
+2016-05-21;Samedi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-21;Samedi;Veille;Touriste Français;Ville de Belfort;786
+2016-05-21;Samedi;Veille;Touriste Français;Agglomeration de Belfort;131
+2016-05-21;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;463
+2016-05-21;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;205
+2016-05-21;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;29
+2016-05-21;Samedi;Veille;Touriste Français;Reste Haute Saone;223
+2016-05-21;Samedi;Veille;Touriste Français;Reste Doubs;306
+2016-05-21;Samedi;Veille;Touriste Français;Haut Rhin Sud;147
+2016-05-21;Samedi;Veille;Touriste Français;Haut Rhin Nord;37
+2016-05-21;Samedi;Veille;Touriste Français;Vosges;25
+2016-05-21;Samedi;Veille;Touriste Etranger;Ville de Belfort;184
+2016-05-21;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-21;Samedi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-22;Dimanche;Veille;Résident ;Ville de Belfort;4405
+2016-05-22;Dimanche;Veille;Résident ;Agglomeration de Belfort;538
+2016-05-22;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;#
+2016-05-22;Dimanche;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-22;Dimanche;Veille;Résident ;Reste Territoire de Belfort;182
+2016-05-22;Dimanche;Veille;Résident ;Reste Haute Saone;30
+2016-05-22;Dimanche;Veille;Résident ;Reste Doubs;30
+2016-05-22;Dimanche;Veille;Résident ;Haut Rhin Sud;#
+2016-05-22;Dimanche;Veille;Résident ;Vosges;#
+2016-05-22;Dimanche;Veille;Touriste Français;Ville de Belfort;596
+2016-05-22;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;47
+2016-05-22;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;152
+2016-05-22;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;47
+2016-05-22;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;#
+2016-05-22;Dimanche;Veille;Touriste Français;Reste Haute Saone;69
+2016-05-22;Dimanche;Veille;Touriste Français;Reste Doubs;77
+2016-05-22;Dimanche;Veille;Touriste Français;Haut Rhin Sud;68
+2016-05-22;Dimanche;Veille;Touriste Français;Haut Rhin Nord;#
+2016-05-22;Dimanche;Veille;Touriste Français;Vosges;47
+2016-05-22;Dimanche;Veille;Touriste Etranger;Ville de Belfort;171
+2016-05-22;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-22;Dimanche;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-23;Lundi;Veille;Résident ;Ville de Belfort;5853
+2016-05-23;Lundi;Veille;Résident ;Agglomeration de Belfort;1646
+2016-05-23;Lundi;Veille;Résident ;Agglomeration de Montbeliard;111
+2016-05-23;Lundi;Veille;Résident ;Agglomeration de Hericourt;40
+2016-05-23;Lundi;Veille;Résident ;Reste Territoire de Belfort;843
+2016-05-23;Lundi;Veille;Résident ;Reste Haute Saone;111
+2016-05-23;Lundi;Veille;Résident ;Reste Doubs;40
+2016-05-23;Lundi;Veille;Résident ;Haut Rhin Sud;50
+2016-05-23;Lundi;Veille;Résident ;Vosges;#
+2016-05-23;Lundi;Veille;Touriste Français;Ville de Belfort;944
+2016-05-23;Lundi;Veille;Touriste Français;Agglomeration de Belfort;139
+2016-05-23;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;361
+2016-05-23;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;155
+2016-05-23;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;47
+2016-05-23;Lundi;Veille;Touriste Français;Reste Haute Saone;158
+2016-05-23;Lundi;Veille;Touriste Français;Reste Doubs;205
+2016-05-23;Lundi;Veille;Touriste Français;Haut Rhin Sud;106
+2016-05-23;Lundi;Veille;Touriste Français;Haut Rhin Nord;47
+2016-05-23;Lundi;Veille;Touriste Français;Vosges;31
+2016-05-23;Lundi;Veille;Touriste Etranger;Ville de Belfort;239
+2016-05-23;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-23;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-23;Lundi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-23;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-23;Lundi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-23;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-24;Mardi;Veille;Résident ;Ville de Belfort;6409
+2016-05-24;Mardi;Veille;Résident ;Agglomeration de Belfort;2228
+2016-05-24;Mardi;Veille;Résident ;Agglomeration de Montbeliard;122
+2016-05-24;Mardi;Veille;Résident ;Agglomeration de Hericourt;122
+2016-05-24;Mardi;Veille;Résident ;Reste Territoire de Belfort;1180
+2016-05-24;Mardi;Veille;Résident ;Reste Doubs;#
+2016-05-24;Mardi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-24;Mardi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-24;Mardi;Veille;Touriste Français;Ville de Belfort;914
+2016-05-24;Mardi;Veille;Touriste Français;Agglomeration de Belfort;279
+2016-05-24;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;454
+2016-05-24;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;178
+2016-05-24;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;85
+2016-05-24;Mardi;Veille;Touriste Français;Reste Haute Saone;176
+2016-05-24;Mardi;Veille;Touriste Français;Reste Doubs;256
+2016-05-24;Mardi;Veille;Touriste Français;Haut Rhin Sud;136
+2016-05-24;Mardi;Veille;Touriste Français;Haut Rhin Nord;58
+2016-05-24;Mardi;Veille;Touriste Français;Vosges;#
+2016-05-24;Mardi;Veille;Touriste Etranger;Ville de Belfort;241
+2016-05-24;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-24;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;23
+2016-05-24;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-24;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-24;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-24;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-25;Mercredi;Veille;Résident ;Ville de Belfort;6498
+2016-05-25;Mercredi;Veille;Résident ;Agglomeration de Belfort;2128
+2016-05-25;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;101
+2016-05-25;Mercredi;Veille;Résident ;Agglomeration de Hericourt;81
+2016-05-25;Mercredi;Veille;Résident ;Reste Territoire de Belfort;1069
+2016-05-25;Mercredi;Veille;Résident ;Reste Haute Saone;40
+2016-05-25;Mercredi;Veille;Résident ;Reste Doubs;#
+2016-05-25;Mercredi;Veille;Résident ;Haut Rhin Sud;40
+2016-05-25;Mercredi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-25;Mercredi;Veille;Touriste Français;Ville de Belfort;890
+2016-05-25;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;122
+2016-05-25;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;408
+2016-05-25;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;167
+2016-05-25;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;65
+2016-05-25;Mercredi;Veille;Touriste Français;Reste Haute Saone;145
+2016-05-25;Mercredi;Veille;Touriste Français;Reste Doubs;209
+2016-05-25;Mercredi;Veille;Touriste Français;Haut Rhin Sud;257
+2016-05-25;Mercredi;Veille;Touriste Français;Haut Rhin Nord;26
+2016-05-25;Mercredi;Veille;Touriste Français;Vosges;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Ville de Belfort;182
+2016-05-25;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;29
+2016-05-25;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-25;Mercredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-26;Jeudi;Veille;Résident ;Ville de Belfort;6505
+2016-05-26;Jeudi;Veille;Résident ;Agglomeration de Belfort;2158
+2016-05-26;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;122
+2016-05-26;Jeudi;Veille;Résident ;Agglomeration de Hericourt;50
+2016-05-26;Jeudi;Veille;Résident ;Reste Territoire de Belfort;1181
+2016-05-26;Jeudi;Veille;Résident ;Reste Haute Saone;40
+2016-05-26;Jeudi;Veille;Résident ;Reste Doubs;30
+2016-05-26;Jeudi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-26;Jeudi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-26;Jeudi;Veille;Touriste Français;Ville de Belfort;923
+2016-05-26;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;230
+2016-05-26;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;564
+2016-05-26;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;201
+2016-05-26;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;35
+2016-05-26;Jeudi;Veille;Touriste Français;Reste Haute Saone;250
+2016-05-26;Jeudi;Veille;Touriste Français;Reste Doubs;243
+2016-05-26;Jeudi;Veille;Touriste Français;Haut Rhin Sud;207
+2016-05-26;Jeudi;Veille;Touriste Français;Haut Rhin Nord;70
+2016-05-26;Jeudi;Veille;Touriste Français;Vosges;#
+2016-05-26;Jeudi;Veille;Touriste Etranger;Ville de Belfort;237
+2016-05-26;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;29
+2016-05-26;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-26;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-26;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-26;Jeudi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-26;Jeudi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-27;Vendredi;Veille;Résident ;Ville de Belfort;6736
+2016-05-27;Vendredi;Veille;Résident ;Agglomeration de Belfort;2214
+2016-05-27;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;122
+2016-05-27;Vendredi;Veille;Résident ;Agglomeration de Hericourt;81
+2016-05-27;Vendredi;Veille;Résident ;Reste Territoire de Belfort;1326
+2016-05-27;Vendredi;Veille;Résident ;Reste Haute Saone;40
+2016-05-27;Vendredi;Veille;Résident ;Reste Doubs;61
+2016-05-27;Vendredi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-27;Vendredi;Veille;Touriste Français;Ville de Belfort;855
+2016-05-27;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;154
+2016-05-27;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;600
+2016-05-27;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;229
+2016-05-27;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;72
+2016-05-27;Vendredi;Veille;Touriste Français;Reste Haute Saone;239
+2016-05-27;Vendredi;Veille;Touriste Français;Reste Doubs;264
+2016-05-27;Vendredi;Veille;Touriste Français;Haut Rhin Sud;157
+2016-05-27;Vendredi;Veille;Touriste Français;Haut Rhin Nord;80
+2016-05-27;Vendredi;Veille;Touriste Français;Vosges;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Ville de Belfort;246
+2016-05-27;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;42
+2016-05-27;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;25
+2016-05-27;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-27;Vendredi;Veille;Touriste Etranger;Vosges;#
+2016-05-28;Samedi;Veille;Résident ;Ville de Belfort;5636
+2016-05-28;Samedi;Veille;Résident ;Agglomeration de Belfort;1603
+2016-05-28;Samedi;Veille;Résident ;Agglomeration de Montbeliard;122
+2016-05-28;Samedi;Veille;Résident ;Agglomeration de Hericourt;61
+2016-05-28;Samedi;Veille;Résident ;Reste Territoire de Belfort;806
+2016-05-28;Samedi;Veille;Résident ;Reste Doubs;40
+2016-05-28;Samedi;Veille;Résident ;Haut Rhin Sud;30
+2016-05-28;Samedi;Veille;Touriste Français;Ville de Belfort;813
+2016-05-28;Samedi;Veille;Touriste Français;Agglomeration de Belfort;213
+2016-05-28;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;626
+2016-05-28;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;158
+2016-05-28;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;76
+2016-05-28;Samedi;Veille;Touriste Français;Reste Haute Saone;181
+2016-05-28;Samedi;Veille;Touriste Français;Reste Doubs;278
+2016-05-28;Samedi;Veille;Touriste Français;Haut Rhin Sud;190
+2016-05-28;Samedi;Veille;Touriste Français;Haut Rhin Nord;44
+2016-05-28;Samedi;Veille;Touriste Français;Vosges;#
+2016-05-28;Samedi;Veille;Touriste Etranger;Ville de Belfort;270
+2016-05-28;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;29
+2016-05-28;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;34
+2016-05-28;Samedi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-28;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;25
+2016-05-28;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-28;Samedi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-28;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-28;Samedi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-29;Dimanche;Veille;Résident ;Ville de Belfort;4517
+2016-05-29;Dimanche;Veille;Résident ;Agglomeration de Belfort;582
+2016-05-29;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;40
+2016-05-29;Dimanche;Veille;Résident ;Agglomeration de Hericourt;#
+2016-05-29;Dimanche;Veille;Résident ;Reste Territoire de Belfort;306
+2016-05-29;Dimanche;Veille;Résident ;Reste Haute Saone;61
+2016-05-29;Dimanche;Veille;Résident ;Reste Doubs;40
+2016-05-29;Dimanche;Veille;Résident ;Haut Rhin Sud;51
+2016-05-29;Dimanche;Veille;Résident ;Haut Rhin Nord;#
+2016-05-29;Dimanche;Veille;Résident ;Vosges;30
+2016-05-29;Dimanche;Veille;Touriste Français;Ville de Belfort;630
+2016-05-29;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;34
+2016-05-29;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;133
+2016-05-29;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;22
+2016-05-29;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;25
+2016-05-29;Dimanche;Veille;Touriste Français;Reste Haute Saone;93
+2016-05-29;Dimanche;Veille;Touriste Français;Reste Doubs;160
+2016-05-29;Dimanche;Veille;Touriste Français;Haut Rhin Sud;127
+2016-05-29;Dimanche;Veille;Touriste Français;Haut Rhin Nord;29
+2016-05-29;Dimanche;Veille;Touriste Français;Vosges;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Ville de Belfort;173
+2016-05-29;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-29;Dimanche;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-05-30;Lundi;Veille;Résident ;Ville de Belfort;5797
+2016-05-30;Lundi;Veille;Résident ;Agglomeration de Belfort;1584
+2016-05-30;Lundi;Veille;Résident ;Agglomeration de Montbeliard;112
+2016-05-30;Lundi;Veille;Résident ;Agglomeration de Hericourt;71
+2016-05-30;Lundi;Veille;Résident ;Reste Territoire de Belfort;950
+2016-05-30;Lundi;Veille;Résident ;Reste Haute Saone;81
+2016-05-30;Lundi;Veille;Résident ;Reste Doubs;40
+2016-05-30;Lundi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-30;Lundi;Veille;Touriste Français;Ville de Belfort;821
+2016-05-30;Lundi;Veille;Touriste Français;Agglomeration de Belfort;151
+2016-05-30;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;367
+2016-05-30;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;155
+2016-05-30;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;37
+2016-05-30;Lundi;Veille;Touriste Français;Reste Haute Saone;129
+2016-05-30;Lundi;Veille;Touriste Français;Reste Doubs;165
+2016-05-30;Lundi;Veille;Touriste Français;Haut Rhin Sud;193
+2016-05-30;Lundi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-05-30;Lundi;Veille;Touriste Français;Vosges;25
+2016-05-30;Lundi;Veille;Touriste Etranger;Ville de Belfort;220
+2016-05-30;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;26
+2016-05-30;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-30;Lundi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-30;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-30;Lundi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-31;Mardi;Veille;Résident ;Ville de Belfort;6473
+2016-05-31;Mardi;Veille;Résident ;Agglomeration de Belfort;1871
+2016-05-31;Mardi;Veille;Résident ;Agglomeration de Montbeliard;102
+2016-05-31;Mardi;Veille;Résident ;Agglomeration de Hericourt;71
+2016-05-31;Mardi;Veille;Résident ;Reste Territoire de Belfort;1063
+2016-05-31;Mardi;Veille;Résident ;Reste Haute Saone;30
+2016-05-31;Mardi;Veille;Résident ;Reste Doubs;#
+2016-05-31;Mardi;Veille;Résident ;Haut Rhin Sud;#
+2016-05-31;Mardi;Veille;Résident ;Haut Rhin Nord;#
+2016-05-31;Mardi;Veille;Touriste Français;Ville de Belfort;890
+2016-05-31;Mardi;Veille;Touriste Français;Agglomeration de Belfort;95
+2016-05-31;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;548
+2016-05-31;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;184
+2016-05-31;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;43
+2016-05-31;Mardi;Veille;Touriste Français;Reste Haute Saone;185
+2016-05-31;Mardi;Veille;Touriste Français;Reste Doubs;209
+2016-05-31;Mardi;Veille;Touriste Français;Haut Rhin Sud;98
+2016-05-31;Mardi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-05-31;Mardi;Veille;Touriste Français;Vosges;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Ville de Belfort;249
+2016-05-31;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;60
+2016-05-31;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-05-31;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-06-01;Mercredi;Veille;Résident ;Ville de Belfort;6662
+2016-06-01;Mercredi;Veille;Résident ;Agglomeration de Belfort;2005
+2016-06-01;Mercredi;Veille;Résident ;Agglomeration de Montbeliard;122
+2016-06-01;Mercredi;Veille;Résident ;Agglomeration de Hericourt;71
+2016-06-01;Mercredi;Veille;Résident ;Reste Territoire de Belfort;1095
+2016-06-01;Mercredi;Veille;Résident ;Reste Haute Saone;61
+2016-06-01;Mercredi;Veille;Résident ;Reste Doubs;#
+2016-06-01;Mercredi;Veille;Résident ;Haut Rhin Sud;40
+2016-06-01;Mercredi;Veille;Résident ;Haut Rhin Nord;#
+2016-06-01;Mercredi;Veille;Touriste Français;Ville de Belfort;1046
+2016-06-01;Mercredi;Veille;Touriste Français;Agglomeration de Belfort;183
+2016-06-01;Mercredi;Veille;Touriste Français;Agglomeration de Montbeliard;399
+2016-06-01;Mercredi;Veille;Touriste Français;Agglomeration de Hericourt;173
+2016-06-01;Mercredi;Veille;Touriste Français;Reste Territoire de Belfort;56
+2016-06-01;Mercredi;Veille;Touriste Français;Reste Haute Saone;163
+2016-06-01;Mercredi;Veille;Touriste Français;Reste Doubs;195
+2016-06-01;Mercredi;Veille;Touriste Français;Haut Rhin Sud;285
+2016-06-01;Mercredi;Veille;Touriste Français;Haut Rhin Nord;63
+2016-06-01;Mercredi;Veille;Touriste Français;Vosges;#
+2016-06-01;Mercredi;Veille;Touriste Etranger;Ville de Belfort;234
+2016-06-01;Mercredi;Veille;Touriste Etranger;Agglomeration de Belfort;22
+2016-06-01;Mercredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-06-01;Mercredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-06-01;Mercredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-01;Mercredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-01;Mercredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-02;Jeudi;Veille;Résident ;Ville de Belfort;6337
+2016-06-02;Jeudi;Veille;Résident ;Agglomeration de Belfort;1863
+2016-06-02;Jeudi;Veille;Résident ;Agglomeration de Montbeliard;112
+2016-06-02;Jeudi;Veille;Résident ;Agglomeration de Hericourt;61
+2016-06-02;Jeudi;Veille;Résident ;Reste Territoire de Belfort;1085
+2016-06-02;Jeudi;Veille;Résident ;Reste Haute Saone;51
+2016-06-02;Jeudi;Veille;Résident ;Reste Doubs;30
+2016-06-02;Jeudi;Veille;Résident ;Haut Rhin Sud;#
+2016-06-02;Jeudi;Veille;Touriste Français;Ville de Belfort;1023
+2016-06-02;Jeudi;Veille;Touriste Français;Agglomeration de Belfort;217
+2016-06-02;Jeudi;Veille;Touriste Français;Agglomeration de Montbeliard;405
+2016-06-02;Jeudi;Veille;Touriste Français;Agglomeration de Hericourt;244
+2016-06-02;Jeudi;Veille;Touriste Français;Reste Territoire de Belfort;63
+2016-06-02;Jeudi;Veille;Touriste Français;Reste Haute Saone;164
+2016-06-02;Jeudi;Veille;Touriste Français;Reste Doubs;242
+2016-06-02;Jeudi;Veille;Touriste Français;Haut Rhin Sud;143
+2016-06-02;Jeudi;Veille;Touriste Français;Haut Rhin Nord;48
+2016-06-02;Jeudi;Veille;Touriste Français;Vosges;25
+2016-06-02;Jeudi;Veille;Touriste Etranger;Ville de Belfort;244
+2016-06-02;Jeudi;Veille;Touriste Etranger;Agglomeration de Belfort;36
+2016-06-02;Jeudi;Veille;Touriste Etranger;Agglomeration de Montbeliard;33
+2016-06-02;Jeudi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-06-02;Jeudi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-02;Jeudi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-02;Jeudi;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-02;Jeudi;Veille;Touriste Etranger;Haut Rhin Sud;24
+2016-06-03;Vendredi;Veille;Résident ;Ville de Belfort;6307
+2016-06-03;Vendredi;Veille;Résident ;Agglomeration de Belfort;2037
+2016-06-03;Vendredi;Veille;Résident ;Agglomeration de Montbeliard;143
+2016-06-03;Vendredi;Veille;Résident ;Agglomeration de Hericourt;102
+2016-06-03;Vendredi;Veille;Résident ;Reste Territoire de Belfort;1187
+2016-06-03;Vendredi;Veille;Résident ;Reste Haute Saone;30
+2016-06-03;Vendredi;Veille;Résident ;Reste Doubs;30
+2016-06-03;Vendredi;Veille;Résident ;Haut Rhin Sud;#
+2016-06-03;Vendredi;Veille;Touriste Français;Ville de Belfort;873
+2016-06-03;Vendredi;Veille;Touriste Français;Agglomeration de Belfort;189
+2016-06-03;Vendredi;Veille;Touriste Français;Agglomeration de Montbeliard;548
+2016-06-03;Vendredi;Veille;Touriste Français;Agglomeration de Hericourt;175
+2016-06-03;Vendredi;Veille;Touriste Français;Reste Territoire de Belfort;91
+2016-06-03;Vendredi;Veille;Touriste Français;Reste Haute Saone;202
+2016-06-03;Vendredi;Veille;Touriste Français;Reste Doubs;348
+2016-06-03;Vendredi;Veille;Touriste Français;Haut Rhin Sud;139
+2016-06-03;Vendredi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-06-03;Vendredi;Veille;Touriste Français;Vosges;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Ville de Belfort;247
+2016-06-03;Vendredi;Veille;Touriste Etranger;Agglomeration de Belfort;56
+2016-06-03;Vendredi;Veille;Touriste Etranger;Agglomeration de Montbeliard;27
+2016-06-03;Vendredi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-03;Vendredi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-06-04;Samedi;Veille;Résident ;Ville de Belfort;5981
+2016-06-04;Samedi;Veille;Résident ;Agglomeration de Belfort;1526
+2016-06-04;Samedi;Veille;Résident ;Agglomeration de Montbeliard;61
+2016-06-04;Samedi;Veille;Résident ;Agglomeration de Hericourt;71
+2016-06-04;Samedi;Veille;Résident ;Reste Territoire de Belfort;686
+2016-06-04;Samedi;Veille;Résident ;Reste Haute Saone;40
+2016-06-04;Samedi;Veille;Résident ;Haut Rhin Sud;40
+2016-06-04;Samedi;Veille;Touriste Français;Ville de Belfort;807
+2016-06-04;Samedi;Veille;Touriste Français;Agglomeration de Belfort;197
+2016-06-04;Samedi;Veille;Touriste Français;Agglomeration de Montbeliard;570
+2016-06-04;Samedi;Veille;Touriste Français;Agglomeration de Hericourt;215
+2016-06-04;Samedi;Veille;Touriste Français;Reste Territoire de Belfort;63
+2016-06-04;Samedi;Veille;Touriste Français;Reste Haute Saone;210
+2016-06-04;Samedi;Veille;Touriste Français;Reste Doubs;265
+2016-06-04;Samedi;Veille;Touriste Français;Haut Rhin Sud;128
+2016-06-04;Samedi;Veille;Touriste Français;Haut Rhin Nord;69
+2016-06-04;Samedi;Veille;Touriste Français;Vosges;51
+2016-06-04;Samedi;Veille;Touriste Etranger;Ville de Belfort;235
+2016-06-04;Samedi;Veille;Touriste Etranger;Agglomeration de Belfort;34
+2016-06-04;Samedi;Veille;Touriste Etranger;Agglomeration de Montbeliard;28
+2016-06-04;Samedi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-04;Samedi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-04;Samedi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-04;Samedi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-06-05;Dimanche;Veille;Résident ;Ville de Belfort;4661
+2016-06-05;Dimanche;Veille;Résident ;Agglomeration de Belfort;563
+2016-06-05;Dimanche;Veille;Résident ;Agglomeration de Montbeliard;40
+2016-06-05;Dimanche;Veille;Résident ;Agglomeration de Hericourt;#
+2016-06-05;Dimanche;Veille;Résident ;Reste Territoire de Belfort;163
+2016-06-05;Dimanche;Veille;Résident ;Reste Haute Saone;#
+2016-06-05;Dimanche;Veille;Résident ;Reste Doubs;40
+2016-06-05;Dimanche;Veille;Résident ;Haut Rhin Sud;40
+2016-06-05;Dimanche;Veille;Résident ;Vosges;#
+2016-06-05;Dimanche;Veille;Touriste Français;Ville de Belfort;806
+2016-06-05;Dimanche;Veille;Touriste Français;Agglomeration de Belfort;43
+2016-06-05;Dimanche;Veille;Touriste Français;Agglomeration de Montbeliard;252
+2016-06-05;Dimanche;Veille;Touriste Français;Agglomeration de Hericourt;62
+2016-06-05;Dimanche;Veille;Touriste Français;Reste Territoire de Belfort;22
+2016-06-05;Dimanche;Veille;Touriste Français;Reste Haute Saone;82
+2016-06-05;Dimanche;Veille;Touriste Français;Reste Doubs;167
+2016-06-05;Dimanche;Veille;Touriste Français;Haut Rhin Sud;109
+2016-06-05;Dimanche;Veille;Touriste Français;Haut Rhin Nord;79
+2016-06-05;Dimanche;Veille;Touriste Français;Vosges;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Ville de Belfort;273
+2016-06-05;Dimanche;Veille;Touriste Etranger;Agglomeration de Belfort;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-05;Dimanche;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-06-06;Lundi;Veille;Résident ;Ville de Belfort;6401
+2016-06-06;Lundi;Veille;Résident ;Agglomeration de Belfort;1856
+2016-06-06;Lundi;Veille;Résident ;Agglomeration de Montbeliard;143
+2016-06-06;Lundi;Veille;Résident ;Agglomeration de Hericourt;112
+2016-06-06;Lundi;Veille;Résident ;Reste Territoire de Belfort;1036
+2016-06-06;Lundi;Veille;Résident ;Reste Haute Saone;71
+2016-06-06;Lundi;Veille;Résident ;Reste Doubs;61
+2016-06-06;Lundi;Veille;Résident ;Haut Rhin Sud;41
+2016-06-06;Lundi;Veille;Résident ;Haut Rhin Nord;#
+2016-06-06;Lundi;Veille;Touriste Français;Ville de Belfort;879
+2016-06-06;Lundi;Veille;Touriste Français;Agglomeration de Belfort;155
+2016-06-06;Lundi;Veille;Touriste Français;Agglomeration de Montbeliard;403
+2016-06-06;Lundi;Veille;Touriste Français;Agglomeration de Hericourt;151
+2016-06-06;Lundi;Veille;Touriste Français;Reste Territoire de Belfort;33
+2016-06-06;Lundi;Veille;Touriste Français;Reste Haute Saone;234
+2016-06-06;Lundi;Veille;Touriste Français;Reste Doubs;238
+2016-06-06;Lundi;Veille;Touriste Français;Haut Rhin Sud;257
+2016-06-06;Lundi;Veille;Touriste Français;Haut Rhin Nord;21
+2016-06-06;Lundi;Veille;Touriste Français;Vosges;33
+2016-06-06;Lundi;Veille;Touriste Etranger;Ville de Belfort;219
+2016-06-06;Lundi;Veille;Touriste Etranger;Agglomeration de Belfort;28
+2016-06-06;Lundi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-06-06;Lundi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-06;Lundi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-06;Lundi;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-06;Lundi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-06;Lundi;Veille;Touriste Etranger;Haut Rhin Nord;#
+2016-06-07;Mardi;Veille;Résident ;Ville de Belfort;6422
+2016-06-07;Mardi;Veille;Résident ;Agglomeration de Belfort;2154
+2016-06-07;Mardi;Veille;Résident ;Agglomeration de Montbeliard;102
+2016-06-07;Mardi;Veille;Résident ;Agglomeration de Hericourt;61
+2016-06-07;Mardi;Veille;Résident ;Reste Territoire de Belfort;1179
+2016-06-07;Mardi;Veille;Résident ;Reste Haute Saone;#
+2016-06-07;Mardi;Veille;Résident ;Haut Rhin Sud;71
+2016-06-07;Mardi;Veille;Résident ;Vosges;#
+2016-06-07;Mardi;Veille;Touriste Français;Ville de Belfort;1024
+2016-06-07;Mardi;Veille;Touriste Français;Agglomeration de Belfort;185
+2016-06-07;Mardi;Veille;Touriste Français;Agglomeration de Montbeliard;471
+2016-06-07;Mardi;Veille;Touriste Français;Agglomeration de Hericourt;172
+2016-06-07;Mardi;Veille;Touriste Français;Reste Territoire de Belfort;52
+2016-06-07;Mardi;Veille;Touriste Français;Reste Haute Saone;175
+2016-06-07;Mardi;Veille;Touriste Français;Reste Doubs;216
+2016-06-07;Mardi;Veille;Touriste Français;Haut Rhin Sud;192
+2016-06-07;Mardi;Veille;Touriste Français;Haut Rhin Nord;#
+2016-06-07;Mardi;Veille;Touriste Français;Vosges;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Ville de Belfort;281
+2016-06-07;Mardi;Veille;Touriste Etranger;Agglomeration de Belfort;22
+2016-06-07;Mardi;Veille;Touriste Etranger;Agglomeration de Montbeliard;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Agglomeration de Hericourt;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Reste Territoire de Belfort;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Reste Haute Saone;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Reste Doubs;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Haut Rhin Sud;#
+2016-06-07;Mardi;Veille;Touriste Etranger;Haut Rhin Nord;#

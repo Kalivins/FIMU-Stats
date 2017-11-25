@@ -89,7 +89,9 @@
 						
 					
 					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-						<div id="Nuitee2017"></div>
+						<div id="graphique">
+							<div id="FreqGlobale2017"></div>
+						</div>
 						<div class="btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
 							<input type="radio" name="options" id="option1" autocomplete="off" checked> Radio 1
