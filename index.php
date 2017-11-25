@@ -14,7 +14,9 @@
 
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="logos">
 						<img src="assets/img/header/logo_orange.png" alt="logo Orange" width="150" height="150" />
+
 						<h1 class="text-center">FIMU-View</h1>
+
 						<img src="assets/img/header/logo_fimu.png" alt="logo FIMU" width="auto" height="150" />
 					</div>
 				</div>
@@ -57,9 +59,11 @@
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<h2>Fréquentation globale</h2>
 					</div>
+
 					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
 						<div id="graphique">
 							<h3>2016</h3>
+
 						</div>
 						<div class="flex-btn btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
@@ -83,6 +87,7 @@
 							<input type="radio" name="options" id="option3" autocomplete="off"> Origine
 							</label>
 						</div>
+
 						<p>25%</p>
 						<p>de participation</p>
 					</div>
@@ -119,6 +124,7 @@
 					</div>
 					</div>
 					
+
 				
 			</div>
 	   </div>
@@ -129,6 +135,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
 						<h2>Fréquentation Journalière</h2>
 					</div>
 					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
@@ -197,6 +204,7 @@
 						</div>
 					</div>
 					</div>
+
 			</div>
 	   </div>
 	   
@@ -279,6 +287,8 @@
    
     
     <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/d3.min.js"></script>
+    <script src="assets/js/d3pie.min.js"></script>
     <script src="assets/js/app.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
 </body>
