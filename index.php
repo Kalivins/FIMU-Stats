@@ -59,72 +59,67 @@
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<h2>Fréquentation globale</h2>
 					</div>
-
-					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
+					<div class="flex-div col-xs-6 col-sm-6 col-md-6 col-lg-6">
 						<div id="graphique">
-							<h3>2016</h3>
-
+							<div id="FreqGlobale2016"></div>
 						</div>
 						<div class="flex-btn btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> Semaine précédente
+							<input type="radio" name="options" class="periode" id="avant" autocomplete="off" > Semaine précédente
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Pendant le FIMU
+							<input type="radio" name="options" class="periode" id="pendant" autocomplete="off"> Pendant le FIMU
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Semaine suivante
+							<input type="radio" name="options" class="periode" id="apres" autocomplete="off"> Semaine suivante
 							</label>
 						</div>
 						<div class="flex-btn btn-group" data-toggle="buttons">
-							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> CSP
+							<label class="btn btn-primary active table" id="csp">
+							<input type="radio" name="options"  autocomplete="off" > CSP
 							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Âge
+							<label class="btn btn-primary table" id="age">
+							<input type="radio" name="options"  autocomplete="off"> Âge
 							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Origine
+							<label class="btn btn-primary table" id="origine">
+							<input type="radio" name="options"  autocomplete="off"> Origine
 							</label>
 						</div>
-
-						<p>25%</p>
-						<p>de participation</p>
 					</div>
 						
 					
-					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
-						<div id="graphique">
-							<h3>2017</h3>
-						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<div id="Nuitee2017"></div>
+						<div class="btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> Semaine précédente
+							<input type="radio" name="options" id="option1" autocomplete="off" checked> Radio 1
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Pendant le FIMU
+							<input type="radio" name="options" id="option2" autocomplete="off"> Radio 2
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Semaine suivante
+							<input type="radio" name="options" id="option3" autocomplete="off"> Radio 3
 							</label>
 						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
-							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> CSP
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Âge
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Origine
-							</label>
-						</div>
+						
+					</div >
+					</div>
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
 						<p>25%</p>
 						<p>de participation</p>
 					</div>
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
 					</div>
-					
-
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
+					</div>
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
+					</div>
 				
 			</div>
 	   </div>
@@ -135,76 +130,54 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-
-						<h2>Fréquentation Journalière</h2>
+						<h2>CATEGORIE</h2>
 					</div>
-					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
-						<div id="graphique">
-							<h3>2016</h3>
-						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<div id="pieChart"></div>
+						<div class="btn-group" data-toggle="buttons">
 							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> Vendredi
+							<input type="radio" name="options" id="option1" autocomplete="off" checked> Radio 1
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Samedi
+							<input type="radio" name="options" id="option2" autocomplete="off"> Radio 2
 							</label>
 							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Dimanche
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Lundi
-							</label>
-						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
-							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> CSP
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Âge
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Origine
+							<input type="radio" name="options" id="option3" autocomplete="off"> Radio 3
 							</label>
 						</div>
 					</div>
+					<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+						<h3>GRAPHIQUE 2017</h3>
+						<div class="btn-group" data-toggle="buttons">
+							<label class="btn btn-primary active">
+							<input type="radio" name="options" id="option1" autocomplete="off" checked> Radio 1
+							</label>
+							<label class="btn btn-primary">
+							<input type="radio" name="options" id="option2" autocomplete="off"> Radio 2
+							</label>
+							<label class="btn btn-primary">
+							<input type="radio" name="options" id="option3" autocomplete="off"> Radio 3
+							</label>
+						</div>
 						
-					
-					<div class="flex-div col-xs-12 col-sm-12 col-md-6 col-lg-6">
-						<div id="graphique">
-							<h3>2017</h3>
-						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
-							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> Jeudi
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Vendredi
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Samedi
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Dimanche
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Lundi
-							</label>
-						</div>
-						<div class="flex-btn btn-group" data-toggle="buttons">
-							<label class="btn btn-primary active">
-							<input type="radio" name="options" id="option1" autocomplete="off" checked> CSP
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option2" autocomplete="off"> Âge
-							</label>
-							<label class="btn btn-primary">
-							<input type="radio" name="options" id="option3" autocomplete="off"> Origine
-							</label>
-						</div>
+					</div >
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
 					</div>
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
 					</div>
-
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
+					</div>
+					<div class="para col-xs-12 col-sm-6 col-md-3 col-lg-3">
+						<p>25%</p>
+						<p>de participation</p>
+					</div>
+				</div>
 			</div>
 	   </div>
 	   
@@ -280,11 +253,9 @@
 
    	
    </main> 
-   <footer class="text-center">
+    <footer class="text-center">
    	<p>Crédits : Yohann Thorez / Charlie Moreau / Kevin Villard / Mourad Zouabi / Luc Ratelli</p>
    </footer> 
-   
-   
     
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/d3.min.js"></script>
